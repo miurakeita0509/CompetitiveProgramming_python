@@ -1,4 +1,7 @@
-31
-34
-7
-151
+6
+insert AAA
+insert AAC
+find AAA
+find CCC
+insert CCC
+find CCC
